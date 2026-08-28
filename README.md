@@ -54,7 +54,7 @@ show_stats("Leer 20 minutos")
 
 Este repositorio incluye, como parte de la actividad:
 - Commit inicial y commits regulares y significativos.
-- Una rama de desarrollo (`feature/stats`) fusionada a `main`.
+- Una rama de desarrollo (`desarrollo2`) fusionada a `main`.
 - Un conflicto de merge simulado y resuelto (rama `conflict-demo`).
 - Uso de `git stash` para guardar cambios temporales.
 - Un `rebase` interactivo para limpiar el historial de commits.

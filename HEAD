@@ -1,0 +1,32 @@
+0000000000000000000000000000000000000000 fbc5fe35ee9c5fbb802d19425df1558075fbf8b4 Ivan Oliva <ivan@example.com> 1787941306 +0000	commit (initial): Commit inicial: estructura base del proyecto Habit Tracker
+fbc5fe35ee9c5fbb802d19425df1558075fbf8b4 983466120960f596593aac35207a079af44bc7f5 Ivan Oliva <ivan@example.com> 1787941312 +0000	commit: Agrega funcion mark_done para registrar habitos completados
+983466120960f596593aac35207a079af44bc7f5 983466120960f596593aac35207a079af44bc7f5 Ivan Oliva <ivan@example.com> 1787941315 +0000	checkout: moving from main to feature/stats
+983466120960f596593aac35207a079af44bc7f5 8e393f84243430b244bfd1c374860a30f0b469d8 Ivan Oliva <ivan@example.com> 1787941315 +0000	commit: feature/stats: agrega comando de estadisticas por habito
+8e393f84243430b244bfd1c374860a30f0b469d8 983466120960f596593aac35207a079af44bc7f5 Ivan Oliva <ivan@example.com> 1787941318 +0000	checkout: moving from feature/stats to main
+983466120960f596593aac35207a079af44bc7f5 50dc6b5fcf2471465cfe3874044129df82c924de Ivan Oliva <ivan@example.com> 1787941318 +0000	merge feature/stats: Merge made by the 'ort' strategy.
+50dc6b5fcf2471465cfe3874044129df82c924de 50dc6b5fcf2471465cfe3874044129df82c924de Ivan Oliva <ivan@example.com> 1787941321 +0000	checkout: moving from main to conflict-demo
+50dc6b5fcf2471465cfe3874044129df82c924de a99a25bb26b7765eda89ed4737be58d6337870bf Ivan Oliva <ivan@example.com> 1787941321 +0000	commit: conflict-demo: cambia mensaje de bienvenida
+a99a25bb26b7765eda89ed4737be58d6337870bf 50dc6b5fcf2471465cfe3874044129df82c924de Ivan Oliva <ivan@example.com> 1787941321 +0000	checkout: moving from conflict-demo to main
+50dc6b5fcf2471465cfe3874044129df82c924de 0a153a389acbdb946eeb27ddb6ee215e3fba1e55 Ivan Oliva <ivan@example.com> 1787941321 +0000	commit: main: mejora formato del mensaje de bienvenida
+0a153a389acbdb946eeb27ddb6ee215e3fba1e55 181883d4120749596008ded65128ff86858a32dc Ivan Oliva <ivan@example.com> 1787941328 +0000	commit (merge): Resuelve conflicto de merge combinando ambos mensajes de bienvenida
+181883d4120749596008ded65128ff86858a32dc 181883d4120749596008ded65128ff86858a32dc Ivan Oliva <ivan@example.com> 1787941332 +0000	reset: moving to HEAD
+181883d4120749596008ded65128ff86858a32dc 8f6d5484e6fcdee173d29ea29fc96174c89ad9ac Ivan Oliva <ivan@example.com> 1787941334 +0000	commit: Agrega notas de configuracion pendientes
+8f6d5484e6fcdee173d29ea29fc96174c89ad9ac af78d18ef2db7921d08bae9376b2296ad763d82f Ivan Oliva <ivan@example.com> 1787941334 +0000	commit: Agrega TODO para futura funcion delete_habit
+af78d18ef2db7921d08bae9376b2296ad763d82f 7d950b560720dded9d840599f52c5024251cc14b Ivan Oliva <ivan@example.com> 1787941338 +0000	commit: wip: prueba debug 1
+7d950b560720dded9d840599f52c5024251cc14b d50792a9746dc71bc9ba7446eece48065929d8f6 Ivan Oliva <ivan@example.com> 1787941338 +0000	commit: wip: prueba debug 2
+d50792a9746dc71bc9ba7446eece48065929d8f6 86d15b76b181d3a390b54ea6878ac507f59fcdc4 Ivan Oliva <ivan@example.com> 1787941338 +0000	commit: wip: limpieza de prints de debug
+86d15b76b181d3a390b54ea6878ac507f59fcdc4 7d950b560720dded9d840599f52c5024251cc14b Ivan Oliva <ivan@example.com> 1787941342 +0000	rebase (start): checkout HEAD~3
+7d950b560720dded9d840599f52c5024251cc14b e26a1e2f1929d219580d80352c23ab085bdb39bf Ivan Oliva <ivan@example.com> 1787941342 +0000	rebase (squash): # This is a combination of 2 commits.
+e26a1e2f1929d219580d80352c23ab085bdb39bf 86d15b76b181d3a390b54ea6878ac507f59fcdc4 Ivan Oliva <ivan@example.com> 1787941349 +0000	rebase (abort): returning to refs/heads/main
+86d15b76b181d3a390b54ea6878ac507f59fcdc4 af78d18ef2db7921d08bae9376b2296ad763d82f Ivan Oliva <ivan@example.com> 1787941353 +0000	reset: moving to af78d18
+af78d18ef2db7921d08bae9376b2296ad763d82f 502f98c6dc22a8d1a7d49cf72b8254c8597f7218 Ivan Oliva <ivan@example.com> 1787941353 +0000	commit: wip: nota sobre validacion
+502f98c6dc22a8d1a7d49cf72b8254c8597f7218 43bf30b5f00b1ca7c9b99171d26a5404fb39cada Ivan Oliva <ivan@example.com> 1787941353 +0000	commit: wip: nota sobre manejo de errores
+43bf30b5f00b1ca7c9b99171d26a5404fb39cada 56b6290aedbe43df7678a8e6efdad8e8adb9d062 Ivan Oliva <ivan@example.com> 1787941353 +0000	commit: wip: nota sobre tests
+56b6290aedbe43df7678a8e6efdad8e8adb9d062 502f98c6dc22a8d1a7d49cf72b8254c8597f7218 Ivan Oliva <ivan@example.com> 1787941356 +0000	rebase (start): checkout HEAD~3
+502f98c6dc22a8d1a7d49cf72b8254c8597f7218 620af442400de1b0d2f334fdc94350fb6065b348 Ivan Oliva <ivan@example.com> 1787941356 +0000	rebase (squash): # This is a combination of 2 commits.
+620af442400de1b0d2f334fdc94350fb6065b348 aae7ec9a38e403a82ecb760be7ed96f88e56c9b5 Ivan Oliva <ivan@example.com> 1787941356 +0000	rebase (squash): Limpieza: agrupa y elimina commits de prueba (debug prints)
+aae7ec9a38e403a82ecb760be7ed96f88e56c9b5 aae7ec9a38e403a82ecb760be7ed96f88e56c9b5 Ivan Oliva <ivan@example.com> 1787941356 +0000	rebase (finish): returning to refs/heads/main
+aae7ec9a38e403a82ecb760be7ed96f88e56c9b5 d340f8b065a332c3861a8176142bc7b93a0b27a9 Ivan Oliva <ivan@example.com> 1787941360 +0000	commit (amend): Limpieza: agrupa notas tecnicas pendientes en un solo commit (rebase interactivo)
+d340f8b065a332c3861a8176142bc7b93a0b27a9 53c89dfb2664a1027abb0984bcfec1628f1bb579 Ivan Oliva <ivan@example.com> 1787941360 +0000	commit: Limpia notas temporales del codigo
+53c89dfb2664a1027abb0984bcfec1628f1bb579 cdf2eaa20fb7759c09381c1dfc4c0f42f071aa19 Ivan Oliva <ivan@example.com> 1787941372 +0000	commit: Agrega README.md con instrucciones de uso y contribucion
+cdf2eaa20fb7759c09381c1dfc4c0f42f071aa19 16664aacfb71b42f4b98c21b2f37bc14c08cc235 Ivan Oliva <ivan@example.com> 1787941372 +0000	commit: Confirmacion final: limpia archivos temporales para la entrega
